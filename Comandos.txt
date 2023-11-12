@@ -1,0 +1,6 @@
+Intalacao
+pipenv shell
+pip install fastapi
+pip install uvicorn
+
+criar main.py
